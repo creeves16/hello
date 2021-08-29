@@ -1,6 +1,6 @@
 /**
- * Author: Cathina Reeves
- * Date: 2021/08/24
+ * Author: Cathina Reeves!
+ * Civil Engineering
  *
  * A simple hello world program in C
  *
